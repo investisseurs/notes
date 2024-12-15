@@ -59,7 +59,7 @@ Blanc: Représente la pureté, la simplicité et la clarté. Il met en valeur le
 
 _____________
 
-L'IA conversationnelle peut jouer un rôle clé pour assister à l'évaluation des fondateurs selon les catégories présentées dans cette infographie. Voici quelques applications spécifiques :
+L'IA conversationnelle https://huggingface.co/neohack22/Legifina/resolve/main/Memo peut jouer un rôle clé pour assister à l'évaluation des fondateurs selon les catégories présentées dans cette infographie. :
 
 1. Méthode Berkus
 
